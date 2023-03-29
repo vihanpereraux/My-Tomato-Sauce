@@ -21,11 +21,11 @@ temp_idx1 = temp_dir +"/idx1.bin"
 
 mode = "void"
 # filein = cv.VideoCapture('Video.avi')
-filein = './Video.avi'
-kill = 0.5
-firstframe = 50
-countframes = 50
-positframes = 50
+filein = './video.avi'
+kill = 0.4
+firstframe = 1
+countframes = 60
+positframes = 60
 
 
 #define temp directory and files
