@@ -21,7 +21,7 @@ temp_idx1 = temp_dir +"/idx1.bin"
 
 mode = "void"
 # filein = cv.VideoCapture('Video.avi')
-filein = './video.avi'
+filein = './video03.avi'
 kill = 0.4
 firstframe = 1
 countframes = 60
